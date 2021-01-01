@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Everything BD</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+<div class="maincolor">
+    <div class="maincontainer">
+      <div class="navibar">
+        <div class="Logo">
+          <img src="images/Logo.png" width="200px">
+        </div>
+        <nav>
+          <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Products</a></li>
+            <li><a href="">Categories</a></li>
+            <li><a href="">Admin Panel</a></li>
+            <li><a href="">Sign In/Up</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+        </nav>
+        <img src="images/scart.png" width=40px >
+      </div>
+      <div class="row1">
+        <div class="col1">
+          <h1>One Stop Shop to all your needs!</h1>
+          <a href="" class="button">Explore!</a>
+        </div>
+        <div class="col1">
+          <img src="images/Homepage1.png">
+        </div>
+      </div>
+    </div>
+    <div class="ProductsContainer">
+      <h2 class="ptitle">Exclusive Products</h2>
+
+    </div>
+</div>
+
+  </body>
+</html>
